@@ -1,4 +1,4 @@
-# try1
+# CMP73010Assignment1-2020
 try the public option
 
 anything but just some unnecessary word
